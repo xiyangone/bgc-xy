@@ -1,3 +1,9 @@
+<div align="right">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=xiyangone&color=brightgreen)
+
+</div>
+
 <div id="title" align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=xiyangone.)
@@ -15,5 +21,3 @@
 </div>
 
 ![中野三玖](./image/中野三玖.jpg)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=xiyangone&color=brightgreen)

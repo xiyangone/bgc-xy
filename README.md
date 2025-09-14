@@ -1,4 +1,4 @@
-<div id="title" align="center">
+﻿<div id="title" align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=xiyangone.) ![Visitor Count](https://komarev.com/ghpvc/?username=xiyangone&color=brightgreen)
 

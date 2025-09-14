@@ -1,12 +1,6 @@
-<div align="right">
-
-![中野三玖](./image/中野三玖.jpg) ![Visitor Count](https://komarev.com/ghpvc/?username=xiyangone&color=brightgreen)
-
-</div>
-
 <div id="title" align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=xiyangone.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=xiyangone.) ![Visitor Count](https://komarev.com/ghpvc/?username=xiyangone&color=brightgreen)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=xiyangone&show_icons=true&theme=tokyonight)](https://github.com/xiyangone)
 
@@ -19,3 +13,5 @@
 ![爱好二次元](https://img.shields.io/badge/爱好-二次元-red)
 
 </div>
+
+![中野三玖](./image/中野三玖.jpg)

@@ -1,8 +1,8 @@
 ﻿<div id="title" align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=xiyangone.) ![Visitor Count](https://komarev.com/ghpvc/?username=xiyangone&color=brightgreen)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=xiyangone.)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=xiyangone&show_icons=true&theme=tokyonight)](https://github.com/xiyangone)
+![Visitor Count](https://komarev.com/ghpvc/?username=xiyangone&color=brightgreen)
 
 [![知乎](https://img.shields.io/badge/知乎-xiyangone-yellow)](https://www.zhihu.com)
 [![YouTube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com)

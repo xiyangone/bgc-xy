@@ -1,6 +1,6 @@
 <div align="right">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=xiyangone&color=brightgreen)
+![中野三玖](./image/中野三玖.jpg) ![Visitor Count](https://komarev.com/ghpvc/?username=xiyangone&color=brightgreen)
 
 </div>
 
@@ -19,5 +19,3 @@
 ![爱好二次元](https://img.shields.io/badge/爱好-二次元-red)
 
 </div>
-
-![中野三玖](./image/中野三玖.jpg)
